@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAesGcmDotNet", "XAesGcmDotNet\XAesGcmDotNet.csproj", "{BDF000C6-EFD7-4AAF-A16D-586177A81F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAesGcmDotNet.Tests", "XAesGcmDotNet.Tests\XAesGcmDotNet.Tests.csproj", "{06F819F0-03A7-4D1A-BCA7-F1B1C0D17943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF000C6-EFD7-4AAF-A16D-586177A81F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF000C6-EFD7-4AAF-A16D-586177A81F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF000C6-EFD7-4AAF-A16D-586177A81F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF000C6-EFD7-4AAF-A16D-586177A81F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F819F0-03A7-4D1A-BCA7-F1B1C0D17943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F819F0-03A7-4D1A-BCA7-F1B1C0D17943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F819F0-03A7-4D1A-BCA7-F1B1C0D17943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F819F0-03A7-4D1A-BCA7-F1B1C0D17943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
